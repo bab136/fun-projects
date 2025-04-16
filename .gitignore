@@ -13,4 +13,4 @@ __pycache__/
 .DS_Store
 
 # Optional: data files you don’t want in Git
-data/
+data/.env
