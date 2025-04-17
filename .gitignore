@@ -17,3 +17,5 @@ data/
 
 # dotenv file
 .env
+
+tagging_system/
